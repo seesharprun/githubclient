@@ -1,4 +1,4 @@
-# Demo article
+# Demo article 2
 
 <https://github.com/azure-samples/cosmos-db-nosql-rust-quickstart>
 
