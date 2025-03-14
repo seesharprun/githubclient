@@ -1,6 +1,6 @@
 # Demo article
 
-## Hyperlinks
+## Hyperlinks test
 
 - [Link to readme](../readme.md)
 - [Link to anchor](#hyperlinks)
