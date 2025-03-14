@@ -1,4 +1,4 @@
-# Test article
+# Test article 2
 
 Check out the latest Rust code sample: [azure-samples/cosmos-db-nosql-go-quickstart][code-sample-1]
 
